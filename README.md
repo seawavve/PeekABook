@@ -1,8 +1,6 @@
 # PeekABook  
+2021 Sangmyung Univ. graduation project  
 TEAM 전손조베이비  
-캡스톤   
-
-  
   ![](https://github.com/seawavve/PeekABook/blob/main/Expected_value.png)
   
 ### Role
