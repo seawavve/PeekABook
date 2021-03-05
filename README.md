@@ -1,8 +1,7 @@
 # PeekABook  
 2021 Sangmyung Univ. graduation project  
 TEAM 전손조베이비  
-  ![](https://github.com/seawavve/PeekABook/blob/main/Expected_value.png)
-  <p align="center"><img src="Expected_value.png" width="500"></p> 
+  <p align="center"><img src="Expected_value.png" width="900"></p> 
   
 ### Role
 + 조한희  
