@@ -1,4 +1,4 @@
 # Dataprocessing
   
-![](https://github.com/seawavve/PeekABook/blob/main/dataProcessing/labelling_result.png)
+![](https://github.com/seawavve/PeekABook/blob/main/dataProcessing/labelling.png)
 
