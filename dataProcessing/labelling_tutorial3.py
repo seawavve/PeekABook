@@ -8,6 +8,7 @@ def labelling(book):
     f = open("./"+ book +"_data.txt", 'r')
     lines = f.readlines()
     for line in lines:
+        line=line.replace('\n','')
         df=df.append({'sentence':line,'posNeg':TextBlob(line).sentiment.polarity},ignore_index=True)
         total_posNeg+=TextBlob(line).sentiment.polarity
     #print(df)
