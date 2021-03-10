@@ -8,5 +8,6 @@ TEAM 전손조베이비
  팀장  
  아이디어 구상  
  github repository, Jira 관리자  
+ 데이터전처리(라벨링)  
 + 손은영  
 + 전한서  
