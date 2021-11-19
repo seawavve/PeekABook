@@ -1,10 +1,10 @@
 # PeekABook  
-#AI #NLP #emotionalClassification  
+#AI #NLP
 2021 Sangmyung Univ. graduation project  
 TEAM 전손조베이비  
   
-  2021 상명대학교 1학기 캡스톤디자인 경진대회 공과대학 우수작품상(장려상)
-  2021 상명대학교 소프트웨어학과 졸업작품 심사 1등
+  2021 상명대학교 1학기 캡스톤디자인 경진대회 공과대학 우수작품상(장려상)  
+  2021 상명대학교 소프트웨어학과 졸업작품 심사 1등  
     
       
       
