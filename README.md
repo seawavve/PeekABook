@@ -9,7 +9,7 @@ TEAM 전손조베이비
       
       
 ### Introduction  
-  <p align="center"><img src="img/VisualizationPOC.png" width="900"></p> 
+  <p align="center"><img src="img/D3Visualization.png" width="900"></p> 
   Peek a boo, 즉 까꿍이라는 첫번째 뜻과 책을 살짝 열어본다는 두번째 의미를 가진 소설 관계도 시각화 프로젝트입니다. 작품 속의 인물 관계를 AI가 자동으로 인지해서 보여주면 좋겠다는 아이디어에서 시작했습니다. 인물간의 관계를 NLP(natural language processing)자연어처리 기술을 사용하여 지도학습으로 인공지능이 직접 감정을 파악하고, 간단한 프론트엔드와 백엔드를 구현하여 그래프 알고리즘 형태의 그림으로 시각화하였습니다. 기존에 없던 아이디어를 직접 방향성을 서치하고 구현했다는 점에서 의의가 있습니다.
    
 ### Process. 
